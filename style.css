@@ -1,0 +1,21 @@
+.tooltip{
+    background-color: black;
+    color: white;
+    
+}
+
+h1{
+     color: #ff4411; 
+     font-size: 40px; 
+     font-family: 'Signika', sans-serif; 
+}
+h2{
+    color:yellowgreen;
+    font-size: 25px; 
+    font-family: 'Signika', sans-serif;  
+}
+h3{
+    color:blue;
+    font-size: 15px; 
+    font-family:cursive;  
+}
